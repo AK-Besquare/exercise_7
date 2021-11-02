@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620050440209",
+    "project_id": "confused-3e817",
+    "storage_bucket": "confused-3e817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620050440209:android:253068635f09f4175811b0",
+        "android_client_info": {
+          "package_name": "com.example.exercise_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620050440209-cmjailm4grt0oaai7232719v5rvg9rpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9h7t8KytbaRvmkHdZUx6Pxkt_haNSn9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620050440209-cmjailm4grt0oaai7232719v5rvg9rpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
